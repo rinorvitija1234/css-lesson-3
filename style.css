@@ -1,3 +1,22 @@
-{
-    
+h1{
+list-style-type: lower-latin;
 }
+
+ .color{
+    background-color: brown;
+    color: blue;
+    word word-spacing: 20px;
+ }
+ .color1{
+    background-color: black;
+    color: antiquewhite;
+
+ }
+  .color2{
+
+background-color: indigo;
+color: lightslategrey;
+
+  }
+ 
+ 
